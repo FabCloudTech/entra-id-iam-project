@@ -1,6 +1,6 @@
 # Microsoft Entra ID: IAM Configuration & Hybrid Architecture Analysis
 
-**Lab Type:** IAM Configuration | Cloud Identity Governance  
+**Project Type:** IAM Configuration | Cloud Identity Governance  
 **Environment:** Microsoft Entra ID (Free Tenant + P2 Trial)  
 **Simulated Org:** Riverview Medical Center (fictional healthcare environment)
 
