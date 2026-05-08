@@ -8,7 +8,7 @@
 
 ## Overview
 
-This lab documents the configuration and analysis of Microsoft Entra ID in a simulated healthcare organization. The work covers user provisioning, group-based RBAC, password policy enforcement, and a documented architectural comparison between cloud and on-premises Active Directory identity management.
+This project documents the configuration and analysis of Microsoft Entra ID in a simulated healthcare organization. The work covers user provisioning, group-based RBAC, password policy enforcement, and a documented architectural comparison between cloud and on-premises Active Directory identity management.
 
 ---
 
