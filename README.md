@@ -124,7 +124,7 @@ Location-based conditional access condition documented for Alex Rivera as part o
 
 **Step 10 — Sign-in risk for A. Rivera**
 
-![Sign-in Risk for A Rivera](images/Sign_in_Risk_for_A_Rivera.png)
+![Sign-in Risk for A Rivera](images/Sign-in_Risk_for_A_Rivera.png)
 
 Sign-in risk policy settings reviewed for Alex Rivera as part of the identity protection baseline established on Day 1.
 
