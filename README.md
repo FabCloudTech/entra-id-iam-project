@@ -66,7 +66,7 @@ Second physician provisioned with matching role attributes. Consistent attribute
 
 **Step 4 — Maria Lopez created (Registered Nurse, Clinical)**
 
-![Creating Nurse Maria Lopez User](images/Creating_Nurse_M__Lopez_User.png)
+![Creating Nurse Maria Lopez User](images/Creating_Nurse_M_Lopez_User.png)
 
 Registered Nurse provisioned in the Clinical department. Role-appropriate job title set at creation to support downstream RBAC group assignment to the Nurses group. Correct department tagging is critical in healthcare environments for HIPAA-aligned access scoping.
 
@@ -124,7 +124,7 @@ Location-based conditional access condition documented for Alex Rivera as part o
 
 **Step 10 — Sign-in risk for A. Rivera**
 
-![Sign-in Risk for A Rivera](images/Sign_in_Risk_for_A__Rivera.png)
+![Sign-in Risk for A Rivera](images/Sign_in_Risk_for_A_Rivera.png)
 
 Sign-in risk policy settings reviewed for Alex Rivera as part of the identity protection baseline established on Day 1.
 
