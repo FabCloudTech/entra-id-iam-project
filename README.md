@@ -19,7 +19,7 @@ Every phase was automated with PowerShell and Microsoft Graph where appropriate 
 
 Enterprises in regulated industries face a consistent identity governance problem: too many identities, too little process. Accounts get provisioned without owners. Privileged access never gets revoked. Contractors stay active past their end dates. Access reviews are checkbox exercises with no documented evidence.
 
-This project builds the governance infrastructure that solves that problem — automated provisioning, just-in-time privilege, formal access reviews, and Zero Trust enforcement — documented to audit standards.
+This project builds the governance infrastructure that solves that problem: automated provisioning, just-in-time privilege, formal access reviews, and Zero Trust enforcement documented to audit standards.
 
 ---
 
@@ -79,11 +79,11 @@ Assigned all 25 users to 6 enterprise applications based on role requirements. A
 
 ### Day 4 — Formal Access Review Implementation
 
-Created 5 access reviews targeting clinical, IT, security, and contractor groups. Group owners were designated as reviewers — a governance design choice that puts access decisions with business owners, not just IT. Completed the Physicians Group review as Dr. James Carter through myapps.microsoft.com to generate real audit evidence.
+Created 5 access reviews targeting clinical, IT, security, and contractor groups. Group owners were designated as reviewers, a governance design choice that puts access decisions with business owners, not just IT. Completed the Physicians Group review as Dr. James Carter through myapps.microsoft.com to generate real audit evidence.
 
 **What was built:**
 - 5 access reviews via PowerShell (Physicians, Nursing, IT, Cybersecurity, Contractors)
-- Group owner as reviewer — business-driven access governance model
+- Group owner as reviewer business-driven access governance model
 - Access review completed and decisions documented as audit evidence
 
 **NIST Mapping:** AC-2(10) (Shared Accounts), CA-7 (Continuous Monitoring)
