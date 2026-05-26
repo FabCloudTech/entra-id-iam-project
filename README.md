@@ -346,7 +346,7 @@ Created and launched access reviews in Entra ID Identity Governance across 5 gro
 
 **Step 1 — 6 access reviews created and confirmed Active**
 
-![Access Reviews Success](images/Day_4_Access__Review_Success.png)
+![Access Reviews Success](images/Day_4_Access_Review_Success.png)
 
 Identity Governance | Access reviews shows 6 reviews all Active, created 5/17/2026: Contractors Group Monthly Access Review, Security Team Group Quarterly Access Review, IT Admins Group Quarterly Access Review, Nurses Group Quarterly Access Review, Physicians Group Quarterly Access Review, and Physicians Test Review. Contractors are reviewed monthly due to higher offboarding risk — all others run quarterly.
 
@@ -354,7 +354,7 @@ Identity Governance | Access reviews shows 6 reviews all Active, created 5/17/20
 
 **Step 2 — Microsoft Security email triggered: review Contractors group by June 16**
 
-![Contractors Email Access Review Alert](images/Day_4_Contractors_Email__Access_Review_Alert.png)
+![Contractors Email Access Review Alert](images/Day_4_Contractors_Email_Access_Review_Alert.png)
 
 Microsoft Security sent an automated review notification to Fabella Terry: "Action required: Review access to the Contractors group by June 16, 2026." Confirms the access review workflow fired correctly — reviewers receive real email notifications, not just portal alerts.
 
