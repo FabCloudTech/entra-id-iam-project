@@ -288,7 +288,7 @@ Terminal output confirms DAY 3 FIX — RIVERVIEW REGIONAL: Total 54, Success 54,
 
 **Step 2 — Epic EHR: 12 clinical users assigned**
 
-![Epic EHR Users](images/Day_3__Epic_App_Users.png)
+![Epic EHR Users](images/Day_3_Epic_App_Users.png)
 
 Epic EHR Users and Groups shows all 12 clinical staff assigned: Alexis Turner, Andre Morales, Brianna Ellison, Carlos Vega, Diana Reyes, James Okafor, Keisha Washington, Lena Hoffman, Malik Harris, Priya Nair, Simone Dupont, Tasha Griffin. Clinical access is scoped to clinical department only — no admin or contractor users appear here.
 
@@ -469,7 +469,7 @@ Security defaults set to Disabled with reason "My organization is planning to us
 
 **Step 2 — All 5 policies deployed via PowerShell: 5 created, 0 failed**
 
-![Conditional Access Script Success](images/Day_6_Conditional__Policy_MFA.png)
+![Conditional Access Script Success](images/Day_6_Conditional_Policy_MFA.png)
 
 Script output confirms all 5 policies created in Report-only mode. Each policy logged with its deployment state. Zero failures.
 
