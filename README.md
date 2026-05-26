@@ -469,7 +469,7 @@ Security defaults set to Disabled with reason "My organization is planning to us
 
 **Step 2 — All 5 policies deployed via PowerShell: 5 created, 0 failed**
 
-![Conditional Access Script Success](images/Day_6_Conditional_Policy_MFA.png)
+![Conditional Access Script Success](images/Day_6_Conditional_Policy_MFA.pn)
 
 Script output confirms all 5 policies created in Report-only mode. Each policy logged with its deployment state. Zero failures.
 
